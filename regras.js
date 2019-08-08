@@ -29,6 +29,8 @@ console.log('Nome const: ' + nome2)
 
 console.log('Nome: ' + nome + ' idade: '+ idade);
 console.log(`Nome: ${nome} idade ${idade}`);
-// Atualizando no github
 
+
+// Atualizando no github
+// Outro comentário
 
